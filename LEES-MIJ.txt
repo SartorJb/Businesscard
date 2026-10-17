@@ -1,0 +1,4 @@
+JB SARTOR digitale visitekaart - klaar voor hosting.
+Upload index.html, sartor-beeldmerk.png en joel-braeckman.vcf samen naar een publiek bereikbare map.
+Zodra de definitieve openbare URL bekend is, maken we een echte QR-code naar die URL.
+Geen QR-code in dit pakket: zonder live URL zou die niet werken.
